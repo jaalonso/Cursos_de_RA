@@ -18,6 +18,8 @@ Está ordenada por países y universidades.
   [[http://people.mpi-inf.mpg.de/~jblanche/][Jasmin Blanchette]], [[http://perso.eleves.ens-rennes.fr/~mfleur01/][Mathias Fleury]] y [[http://people.mpi-inf.mpg.de/~dwand/][Daniel Wand]].
 + [[https://courses.ps.uni-saarland.de/icl_18/][Introduction to computational logic]] (Summer Semester 2018) ~
   [[http://www.ps.uni-saarland.de/~smolka/][Gert Smolka]]
++ [[https://courses.ps.uni-saarland.de/icl_19/][Introduction to computational logic]] (Summer Semester 2019) ~
+  [[http://www.ps.uni-saarland.de/~smolka/][Gert Smolka]]
 
 *** Universidad técnica de Kaiserslautern
 + [[https://softech.cs.uni-kl.de/homepage/de/teaching/SVHOL14/][Specification and verification with higher-order logic]]. ~ Arnd
