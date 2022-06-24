@@ -1,7 +1,7 @@
 #+TITLE:  Cursos de razonamiento automático y demostración asistida por ordenador
 #+AUTHOR: José A. Alonso
 #+DATE:   26 de mayo de 2016
-
+ 
 En esta página se recopilan cursos de razonamiento automático y demostración
 asistida por ordenador que sirven de referencia al curso [[http://www.cs.us.es/~jalonso/cursos/m-ra/][Razonamiento
 automático]] de la Universidad de Sevilla.
